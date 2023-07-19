@@ -1,7 +1,6 @@
 ## Hello there 👀
 
 
-### About me 🔭
 Im Florian (aka Floschy) a IT stundent and self declared hobby developer.  [[And here the long version](https://floschy.me/about)]
 
 
