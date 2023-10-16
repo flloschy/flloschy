@@ -29,4 +29,4 @@ Im Florian (aka Floschy) an IT stundent and Hobby developer.  [*[here the long v
 ### Contact 💬
 The best place to contact me is on [Discord](https://discord.com/users/578620425060483072)!
 
-###### Proud [contributer](https://github.com/sveltejs/learn.svelte.dev/pull/419) to lear.svelte (very important) 
+###### Proud [contributer](https://github.com/sveltejs/learn.svelte.dev/pull/419) to learn.svelte (very important) 
