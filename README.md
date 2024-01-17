@@ -17,15 +17,6 @@ Im Florian (aka Floschy) an IT stundent and Hobby developer.  [*[here the long v
 5. [More here](https://floschy.me/skills)
 
 
-### Goals 🏁
-|                 |                    |                       |                     |       |          |
-|:----------------|:-------------------|:----------------------|:--------------------|:------|:---------|
-| Wanna Learn:    | Rust               | C                     | C#                  | C++   | Assembly |
-| Wanna get into: | Unity / Unreal     | Server code side code | Applications        | Linux | apis     |
-| Wanna do:       | More Contributions | Finish a game jam     | [BIG MAYBE] devlogs |       |          |
-|                 |                    |                       |                     |       |          |
-
-
 ### Contact 💬
 The best place to contact me is on [Discord](https://discord.com/users/578620425060483072)!
 
